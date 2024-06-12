@@ -1,0 +1,2 @@
+# GptBotStoryV3
+BubbleStories
